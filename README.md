@@ -40,7 +40,7 @@ Python (asyncio), C++ (начальный уровень), немного асс
 | Проект | Описание | Стек | Статус |
 |---|---|---|---|
 | [**Perimeter**](https://github.com/Demian-Chern) | DevSecOps-платформа: сетевые сканеры, DLP, сканирование веб-уязвимостей, OSINT в едином GUI на Flet. Начат как хакатон-проект (Kodik Launchpad) | Python, Flet, asyncio | v1 завершена |
-| [**CTF Write-ups**](https://github.com/Demian-Chern/ib-portfolio/tree/main/Writeup/gaslightCTF_updated)) | Разборы задач Reverse Engineering / Pwn / Crypto с полным ходом анализа и кодом эксплойтов | Python, pwntools, Ghidra | Пополняется |
+| [**CTF Write-ups**](https://github.com/Demian-Chern/ib-portfolio/tree/main/Writeup)) | Разборы задач Reverse Engineering / Pwn / Crypto с полным ходом анализа и кодом эксплойтов | Python, pwntools, Ghidra | Пополняется |
 | [**GradientProject**](https://github.com/Demian-Chern) | Клиент-серверная система защищённых вычислений: шифр Виженера, SHA-256, градиентный спуск, интерполяция сплайнами | Python, PostgreSQL, Docker | В разработке |
 
 ---
